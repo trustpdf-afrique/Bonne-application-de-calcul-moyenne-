@@ -1,0 +1,9 @@
+{
+  "name": "ztv-moyenne",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Application ZTV Moyenne",
+  "scripts": {
+    "build": "echo Projet web prêt pour Capacitor"
+  }
+}
